@@ -1,0 +1,6 @@
+Protocol_Local = "Local"
+Protocol_Mysql = "Mysql"
+Protocol_Http = "Http"
+Protocol_Https = "Https"
+Protocol_Ftp = "Ftp"
+Protocol_Sftp = "Sftp"

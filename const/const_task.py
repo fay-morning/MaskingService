@@ -1,0 +1,11 @@
+Task_Status_Cancel = -1  # 取消
+Task_Status_Ready = 0  # 未开始
+Task_Status_Running_Pre_Handle = 12  # 执行前置任务中
+Task_Status_Running_Pre_Handle_Done = 13  # 前置任务执行完毕
+Task_Status_Running = 1  # 执行中
+Task_Status_Running_Done = 10  # 执行完毕
+Task_Status_Running_Post_Handle = 11  # 执行完成的后续处理中
+Task_Status_Running_Post_Handle_Done = 14  # 执行完成的后续处理完毕
+Task_Status_Pause = 2  # 暂停
+Task_Status_Success = 3  # 成功
+Task_Status_Fail = 4  # 失败
